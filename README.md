@@ -1,4 +1,3 @@
-
 <h1>Introduction to the DOM</h1>
 
 <h4>The Document Object Model (DOM)</h4><span style="font-weight: normal;">
@@ -11,4 +10,4 @@ A web page is a document that can be either displayed in the browser window or a
 
 <hr>
 
-<code>Read the full link in: https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction</code>
+<code>Read the full Documentation here: https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction</code>
