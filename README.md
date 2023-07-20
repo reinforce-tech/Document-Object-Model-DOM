@@ -1,4 +1,4 @@
-<h1 style="color: beige;">Introduction to the DOM</h1>
+<h1>Introduction to the DOM</h1>
 
 <h4>The Document Object Model (DOM)</h4><span style="font-weight: normal;">
 is the data representation of the objects that comprise the structure and content of a document on the web. This guide will introduce the DOM, look at how the DOM represents an HTML document in memory and how to use APIs to create web content and applications.
@@ -10,4 +10,4 @@ A web page is a document that can be either displayed in the browser window or a
 
 <hr>
 
-<code>Read the full Documentation here: https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction</code>
+<code>Read the full Documentation: https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction</code>
