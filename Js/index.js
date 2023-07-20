@@ -2,7 +2,7 @@ function hello() {
 	alert("hello");
 }
 function change() {
-	document.querySelector("h1").innerHTML = "GOObye";
+	document.querySelector("h1").innerHTML = "GoodBye!";
 }
 
 hello();
