@@ -8,6 +8,12 @@ body > h1 {
 	border: 0px solid bisque;
 	color: rgb(216, 152, 69);
 	border-radius: 10%;
+	transition: all 0.2s;
+}
+
+.btn:hover {
+	cursor: pointer;
+	padding: 5px 50px 5px 10px;
 }
 
 /* DOM */
