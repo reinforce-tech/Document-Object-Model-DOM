@@ -3,5 +3,19 @@ body > h1 {
 }
 
 .btn {
-	background-color: yellow;
+	background-color: bisque;
+	padding: 5px 10px 5px 10px;
+	border: 0px solid bisque;
+	color: rgb(216, 152, 69);
+	border-radius: 10%;
 }
+
+/* DOM */
+.huge {
+	font-size: 10rem;
+	color: blanchedalmond;
+	font-family: sans-serif;
+}
+/*you can toggle this in 
+document.querySelector("h1")
+.classList.toggle("huge"); */
